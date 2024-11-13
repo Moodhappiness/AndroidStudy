@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_text">Hello</string>
+    <string name="star_image_description">Star icon</string>
+    <string name="waiting_for_message">Waiting for message</string>
+    <string name="back_button_text">Back</string>
+    <string name="text_view">TextView</string>
+    <string name="hello">Hello</string>
+    <string name="main_activity_text">MainActivity TextView</string>
+    <string name="second_activity_text">SecondActivity TextView</string>
+    <string name="hello_button">Hello</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_name">Name</string>
+    <string name="sample_price">Price</string>
+    <string name="sample_config">Config</string>
+
+</resources>
+

@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="联系人 2 信息"
+        android:textColor="#673AB7"
+        android:textSize="24sp" />
+
+    <!-- 添加联系人 2 的更多信息 -->
+</LinearLayout>
